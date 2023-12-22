@@ -1,7 +1,7 @@
 # Test
 Game design concept
 
-# Interactive Tutorial
+# Interactive Tutorial 
 
 Welcome to the interactive tutorial! Let's get started.
 
